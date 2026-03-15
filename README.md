@@ -1,8 +1,5 @@
-# Contact-center-ai-analytics
+# Contact-center--analytics
 AI powered contact center analytics platform with sentiment analysis, call transcripts and operational dashboards.
-# Contact Center AI Analytics
-
-AI powered analytics platform for contact centers.
 
 This project simulates a modern AI speech analytics system used to analyze customer service calls.
 
